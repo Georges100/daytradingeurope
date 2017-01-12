@@ -3,6 +3,9 @@ Day trading in Europe for 5 major stocks compared to a long-term shareholder.
 
 I wanted to investigate the trends on day trading in 5 of the most prominent stocks in Europe during the months of November and December: Airbus, L’Oreal, Deutsche Bank, BNP and Volkswagen. I’ve colledted live data by the second thanks to hopey.nt. Those two months were particularly good for these stock so I might as well repeat my own experiment in less positive trends.
 
+Full article here: http://www.dartycs.com/2017/01/10/daytrading-in-europe/
+
+
 
 I’ve compared the performance of a regular shareholed who keeps the stock till the end of our period to those of a day trader who sticks to his own rules. The rules will apply to when and how a trader will enter the market and his exit (via stop loss or sell by the end of the day).
 
